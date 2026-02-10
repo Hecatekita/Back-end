@@ -23,9 +23,13 @@
 *O npm (Node Package Manager) é o gerenciador de pacotes padrão para o ambiente de execução
 
 7. O que significa a palavra "módulo" no Node.js?
+*Uma blibioteca é um conjunto de funções e classes para usar nos códigos
 
 8. O Node.js é mais usado no "front-end" ou no "back-end"?
+*No back-end
 
 9. O que é o arquivo "package.json"?
+*É o arquivo de configuração central e o "coração" de projetos Node.js e JavaScript
 
 10. O Node.js é gratuito ou pago?
+*Gratuito
